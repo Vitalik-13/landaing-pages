@@ -990,7 +990,7 @@ a {
     z-index: 10;
   }
   .stiky-position {
-    margin-top: 140%;
+    margin-top: 150%;
   }
   .marqure-infinite {
     margin-top: 50px;
@@ -1044,6 +1044,10 @@ a {
   }
   .conteiner-tabs {
     top: 15px;
+  }
+  .wrapper {
+    flex-direction: column;
+    gap: 15px 0;
   }
   .img-tab-content {
     flex-direction: column;
@@ -1119,5 +1123,8 @@ a {
   }
   .text-center {
     max-width: 100%;
+  }
+  .main-paragraph {
+    font-size: 20px;
   }
 }
