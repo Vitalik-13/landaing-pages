@@ -986,10 +986,11 @@ a {
     margin-top: 100px;
   }
   .modal-open-lang {
-    right: 5%;
+    right: 15%;
+    z-index: 10;
   }
   .stiky-position {
-    margin-top: 135%;
+    margin-top: 140%;
   }
   .marqure-infinite {
     margin-top: 50px;
@@ -1010,10 +1011,10 @@ a {
     height: 250px;
   }
   .swiper-button-prev {
-    left: 75%;
+    left: 69%;
   }
   .swiper-button-next {
-    left: 85%;
+    left: 82%;
   }
   .scroll-item-container {
     padding: 25px 20px;
@@ -1039,7 +1040,7 @@ a {
     padding: 15px 0;
   }
   .wrapper {
-    gap: 15px;
+    display: none;
   }
   .wrapper::after {
     top: -3px;
@@ -1064,7 +1065,10 @@ a {
     padding-right: 0;
   }
   .image-tabs-wrapper {
-    height: 450px;
+    height: 400px;
+  }
+  .content {
+    margin-bottom: 20px;
   }
   .tab-intitle {
     text-align: center;
@@ -1072,9 +1076,7 @@ a {
   .tab-link {
     padding: 20px 35px;
   }
-  .wrapper {
-    flex-direction: column;
-  }
+
   .tab-title {
     background-color: #7c889c;
     width: 100%;
