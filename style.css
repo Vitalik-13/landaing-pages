@@ -1039,9 +1039,6 @@ a {
   .block {
     padding: 15px 0;
   }
-  .wrapper {
-    display: none;
-  }
   .wrapper::after {
     top: -3px;
   }
