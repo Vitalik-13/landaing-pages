@@ -215,6 +215,26 @@ const someObj = {
     ua: "Надійний сервіс для моніторингу цін конкурентів",
     en: "The ultimate tool for monitoring competitors' prices",
   },
+  tabButton5: {
+    ua: "Обговорити співпрацю",
+    en: "Contact sales",
+  },
+  tabButton6: {
+    ua: "Обговорити співпрацю",
+    en: "Contact sales",
+  },
+  tabButton7: {
+    ua: "Обговорити співпрацю",
+    en: "Contact sales",
+  },
+  tabButton8: {
+    ua: "Обговорити співпрацю",
+    en: "Contact sales",
+  },
+  tabButton9: {
+    ua: "Обговорити співпрацю",
+    en: "Contact sales",
+  },
   blackButton: {
     ua: "Обговорити співпрацю",
     en: "Contact sales",
@@ -224,6 +244,10 @@ const someObj = {
     en: "Log in",
   },
   SmallText: {
+    ua: "Оберіть версію додатку",
+    en: "Choose the application version",
+  },
+  SmallText1: {
     ua: "Оберіть версію додатку",
     en: "Choose the application version",
   },
